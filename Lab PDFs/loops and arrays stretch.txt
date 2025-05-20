@@ -1,0 +1,12 @@
+Stretch:
+
+1. Using arrays and the random method, can you simulate the lottery number generator, selecting six numbers in the range 1 to 49? No duplicates!
+
+2. Using the random method, a loop and the Scan methods, create a number guessing game. Use appropriate prompts:
+"Do you want to guess another number? (y/n)"
+"What is your guess?"
+"That is too high."
+"That is too low."
+"Well done, you guessed correctly."
+"That took [n] guesses."
+Thank you for playing.
